@@ -10,11 +10,11 @@ import {
   BrowserRouter
 } from "react-router-dom";
 
-import HomeScreen from './screens/HomeScreen';
-import ProductsScreen from './screens/ProductsScreen';
-import NoScreen from './screens/NoScreen';
-import FooterBar from './components/FooterBar';
-import SingleProductScreen from './screens/SingleProductScreen';
+import HomeScreen from './Screens/HomeScreen';
+import ProductsScreen from './Screens/ProductScreen';
+import NoScreen from './Screens/NoScreen';
+import FooterBar from './Components/FooterBar';
+import SingleProductScreen from './Screens/SingleProductScreen';
 
 const ProductIdWrapper = () => {
   const { productId } = useParams();
