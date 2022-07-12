@@ -10,7 +10,7 @@ import {
 
 import NavBar from './components/NavBar';
 import HomeScreen from './screens/HomeScreen';
-import ProductsScreen from './screens/ProductsScreen';
+import ProductsScreen from './screens/ProductScreen';
 import NoScreen from './screens/NoScreen';
 import FooterBar from './components/FooterBar';
 import SingleProductScreen from './screens/SingleProductScreen';
